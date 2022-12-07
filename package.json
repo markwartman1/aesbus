@@ -19,6 +19,6 @@
 	"license": "ISC",
 	"homepage": "https://bitbucket.org/justinjames/js-test#readme",
 	"dependencies": {
-		"express": "^4.17.1"
+		"express": "^4.18.2"
 	}
 }
